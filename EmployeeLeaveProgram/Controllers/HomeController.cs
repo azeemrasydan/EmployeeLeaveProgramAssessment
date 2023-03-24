@@ -42,7 +42,8 @@ namespace EmployeeLeaveProgram.Controllers
                 StartDate = employeeLeaveForm.StartDate,
                 EndDate = employeeLeaveForm.EndDate,
                 Applicant = applicant,
-                Manager = manager
+                Manager = manager,
+                Status = LeaveApplicationStatus.Pending
             };
 
             db.LeaveApplications.Add(employeeLeaveApplication);
