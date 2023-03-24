@@ -9,10 +9,10 @@
 
 ## Guide on how to use
 1. There are three existing users which are
-    i. Abdul Ghani (EmployeeId: 1321)
-    ii. Ang Foo (EmployeeId:1322)
-    iii. Anumugham Muthu (EmployeeId:1323)
+	- Abdul Ghani (EmployeeId: 1321)
+	- Ang Foo (EmployeeId:1322)
+	- Anumugham Muthu (EmployeeId:1323)
 
-2. When applying for leave, use one of the existing employee id information for applicant and manager as per seeded to apply for leave.
+2. When applying for leave, use one of the existing employee id information for applicant and manager or those which were seeded to apply for leave.
 3. An email will be sent to the manager email adddress for approval. (Note: Please use an actual mail address that can be accessed to get the link)
 4. Once the link is clicked, manager can either approve or reject
