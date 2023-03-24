@@ -13,7 +13,7 @@ namespace EmployeeLeaveProgram.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202303240138427_InitialCreate"; }
+            get { return "202303240641204_InitialCreate"; }
         }
         
         string IMigrationMetadata.Source
